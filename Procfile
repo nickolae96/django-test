@@ -1,0 +1,1 @@
+web: python testdj.manage.py runserver
