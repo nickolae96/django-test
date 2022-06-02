@@ -1,1 +1,1 @@
-web: python testdj.manage.py runserver
+web: gunicorn testdj.wsgi --log-file -
