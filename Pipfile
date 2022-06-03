@@ -12,6 +12,7 @@ django-storages = "*"
 boto3 = "*"
 gunicorn = "*"
 whitenoise = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
